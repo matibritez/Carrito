@@ -1,0 +1,50 @@
+[
+    {
+        "id":1,
+        "title": "Motorola e20",
+        "precio": 35000,
+        "img":"https://www.cetrogar.com.ar/media/catalog/product/2/0/2021_aruba_basic_pack_graphite_gray_frontback.png?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds",
+        "stock":2,
+        "cantidad": 1
+    },
+    {
+        "id":2,
+        "title": "Samsung a22",
+        "precio": 41000,
+        "img": "https://www.cetrogar.com.ar/media/catalog/product/t/e/te2755-1.jpg?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds",
+        "stock":6,
+        "cantidad": 1
+    },
+    {
+        "id":3,
+        "title":"Samsung a12",
+        "precio": 30000,
+        "img":"https://www.cetrogar.com.ar/media/catalog/product/t/e/te2735_1.jpg?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds",
+        "stock":9,
+        "cantidad": 1
+    },
+    {
+        "id":4,
+        "title":"Samsung ZFfold2",
+        "precio": 138999,
+        "img":"https://www.cetrogar.com.ar/media/catalog/product/t/e/te2665-1.jpg?width=500&height=500&canvas=500:500&quality=80&bg-color=255,255,255&fit=bounds://tienda.movistar.com.ar/media/catalog/product/cache/29ccbb5c02aec1862b4f5a57a55d0f2f/s/m/sm-f711_zflip3_openfront_phantomblack_4_1.png",
+        "stock":5,
+        "cantidad": 1
+    },
+    {
+        "id":5,
+        "title":"Motorola G9Plus",
+        "precio": 89560,
+        "img":"https://www.cetrogar.com.ar/media/catalog/product/t/e/te2657_6_.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=265&width=265&canvas=265:265",
+        "stock":3,
+        "cantidad": 1
+    },
+    {
+        "id":6,
+        "title":"Motorola EDGE6",
+        "precio": 111379,
+        "img":"https://www.cetrogar.com.ar/media/catalog/product/t/e/te2623_1__1.jpg?quality=80&bg-color=255,255,255&fit=bounds&height=&width=&canvas=:",
+        "stock":15,
+        "cantidad": 1
+    }
+]
